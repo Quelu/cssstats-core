@@ -1873,7 +1873,7 @@
   "rules": [
     {
       "type": "rule",
-      "childs": [
+      "nodes": [
         {
           "type": "decl",
           "prop": "display",
@@ -1953,7 +1953,7 @@
     },
     {
       "type": "rule",
-      "childs": [
+      "nodes": [
         {
           "type": "decl",
           "prop": "display",
@@ -2033,7 +2033,7 @@
     },
     {
       "type": "rule",
-      "childs": [
+      "nodes": [
         {
           "type": "decl",
           "prop": "display",
@@ -2113,7 +2113,7 @@
     },
     {
       "type": "rule",
-      "childs": [
+      "nodes": [
         {
           "type": "decl",
           "prop": "text-align",
@@ -2217,7 +2217,7 @@
     },
     {
       "type": "rule",
-      "childs": [
+      "nodes": [
         {
           "type": "decl",
           "prop": "display",
@@ -2237,7 +2237,7 @@
     },
     {
       "type": "rule",
-      "childs": [
+      "nodes": [
         {
           "type": "decl",
           "prop": "display",
@@ -2269,7 +2269,7 @@
     },
     {
       "type": "rule",
-      "childs": [
+      "nodes": [
         {
           "type": "decl",
           "prop": "display",
@@ -2301,7 +2301,7 @@
     },
     {
       "type": "rule",
-      "childs": [
+      "nodes": [
         {
           "type": "decl",
           "prop": "position",
@@ -2321,7 +2321,7 @@
     },
     {
       "type": "rule",
-      "childs": [
+      "nodes": [
         {
           "type": "decl",
           "prop": "-webkit-transition",
@@ -2389,7 +2389,7 @@
     },
     {
       "type": "rule",
-      "childs": [
+      "nodes": [
         {
           "type": "decl",
           "prop": "-webkit-transform",
@@ -2457,7 +2457,7 @@
     },
     {
       "type": "rule",
-      "childs": [
+      "nodes": [
         {
           "type": "decl",
           "prop": "-webkit-transform",
@@ -2525,7 +2525,7 @@
     },
     {
       "type": "rule",
-      "childs": [
+      "nodes": [
         {
           "type": "decl",
           "prop": "-webkit-transition",
@@ -2653,7 +2653,7 @@
     },
     {
       "type": "rule",
-      "childs": [
+      "nodes": [
         {
           "type": "decl",
           "prop": "font-family",
@@ -2685,7 +2685,7 @@
     },
     {
       "type": "rule",
-      "childs": [
+      "nodes": [
         {
           "type": "decl",
           "prop": "text-align",

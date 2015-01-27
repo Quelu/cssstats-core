@@ -156,7 +156,7 @@
   "rules": [
     {
       "type": "rule",
-      "childs": [
+      "nodes": [
         {
           "type": "decl",
           "prop": "color",
@@ -176,7 +176,7 @@
     },
     {
       "type": "rule",
-      "childs": [
+      "nodes": [
         {
           "type": "decl",
           "prop": "color",
@@ -196,7 +196,7 @@
     },
     {
       "type": "rule",
-      "childs": [
+      "nodes": [
         {
           "type": "decl",
           "prop": "transform",
@@ -216,7 +216,7 @@
     },
     {
       "type": "rule",
-      "childs": [
+      "nodes": [
         {
           "type": "decl",
           "prop": "transform",
